@@ -1,0 +1,5 @@
+../Core/Src/aprs.c:18:6:APRS_SetSource	1
+../Core/Src/aprs.c:23:6:APRS_SetDestination	1
+../Core/Src/aprs.c:28:6:APRS_SetPath1	1
+../Core/Src/aprs.c:33:6:APRS_SetPath2	1
+../Core/Src/aprs.c:40:6:APRS_Send	3
