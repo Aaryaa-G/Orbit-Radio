@@ -1,0 +1,16 @@
+../Core/Src/main.c:66:6:DAC_Write4	1
+../Core/Src/main.c:82:6:DAC_PrecomputeMasks	6
+../Core/Src/main.c:103:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:110:5:main	7
+../Core/Src/main.c:232:6:SystemClock_Config	1
+../Core/Src/main.c:255:6:Debug_PrintClocks	2
+../Core/Src/main.c:281:6:GPIO_Init	1
+../Core/Src/main.c:345:6:USART2_Init	1
+../Core/Src/main.c:368:6:USART1_Init	1
+../Core/Src/main.c:391:6:USART6_Init	1
+../Core/Src/main.c:414:6:TIM3_Init	3
+../Core/Src/main.c:445:13:RS485_SetReceive	1
+../Core/Src/main.c:452:13:Debug_Print	1
+../Core/Src/main.c:458:6:DRA_Send	1
+../Core/Src/main.c:464:6:DRA_Init	1
+../Core/Src/main.c:483:6:Error_Handler	1

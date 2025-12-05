@@ -1,0 +1,11 @@
+../Core/Src/afsk.c:55:12:afsk_EnqueueBit	16	static
+../Core/Src/afsk.c:67:12:afsk_DequeueBit	16	static
+../Core/Src/afsk.c:79:6:afsk_Init	4	static
+../Core/Src/afsk.c:95:13:send_byte_raw	24	static
+../Core/Src/afsk.c:108:13:send_byte_stuffed	24	static
+../Core/Src/afsk.c:139:6:afsk_generate	32	static
+../Core/Src/afsk.c:203:6:afsk_start	4	static
+../Core/Src/afsk.c:209:6:afsk_stop	8	static
+../Core/Src/afsk.c:220:6:afsk_timer_tick	16	static
+../Core/Src/afsk.c:272:9:afsk_isBusy	4	static
+../Core/Src/afsk.c:278:10:afsk_getBitsRemaining	4	static
